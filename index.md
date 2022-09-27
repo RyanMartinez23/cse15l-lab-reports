@@ -5,7 +5,7 @@
 
 * *figuring* **everything** out at the moment
   
-![Photo](https://ryanmartinez1.github.io/cse15l-lab-reports/.idea/lab-report-1-week-0.md)
+  ![Image](https://ryanmartinez1.github.io/cse15l-lab-reports/lab-report-1-week-0.md)
   
   click the link below to learn more about me:
 
