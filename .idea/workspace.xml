@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58c13865-6eba-436e-aba4-b461c1646d41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lab-report-1-week-0.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cse15l-lab-reports.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lab-report-1-week-0.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-report-1-week-0.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab-report-1-week-0.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +31,6 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -82,7 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664309526780</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test4">
+      <created>1664311252492</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664311252492</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test4">
+      <created>1664311516262</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664311516262</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,12 +103,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testing out offline editing." />
     <MESSAGE value="getting image to work.&#10;link was setup in last commit." />
     <MESSAGE value="test2 for photo" />
     <MESSAGE value="test 3 photo upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 3 photo upload" />
+    <MESSAGE value="test4" />
+    <option name="LAST_COMMIT_MESSAGE" value="test4" />
   </component>
 </project>
