@@ -15,5 +15,5 @@ click the link to learn more about each project:
 
 * WEEK 0 LAB 
   
-* * [Week0](https://ryanmartinez1.github.io/cse15l-lab-reports/intro.html)
+* * [Week0](https://ryanmartinez1.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
 
