@@ -60,6 +60,17 @@ scp WhereAmI.java cs15lfa22zz@ieng6.ucsd.edu:~/
 Creating SSH keys. These help by not having to type your password everytime you log in to you
 terminal.
 
-The first step is to run key
+The first step is to run ssh-keygen this generates a public and a private rsa key pair
+from there you same the passphase as nothing 
+know on the client you run your normal login for remote conectivtiy
+ssh cs15lfa22zz@ieng6.ucsd.edu
+and enter your password 
+
+now once on the server use the code mkdir.ssh and logout out after using the code exit
+Now back on the client you run code to authorize the rsa id 
+
+scp /Users/joe/.ssh/id_rsa.pub cs15lfa22@ieng6.ucsd.edu:~/.ssh/authorized_keys 
+
+Now you are able to log in without a password!! 
 
 ![img_5.png](img_5.png)

@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58c13865-6eba-436e-aba4-b461c1646d41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab-report-1-week-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab-report-1-week-1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664595999265</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="start of week1 lab report part 2">
+      <created>1664600936584</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1664600936584</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +165,7 @@
     <MESSAGE value="final1" />
     <MESSAGE value="final 2" />
     <MESSAGE value="start of week1 lab report" />
-    <option name="LAST_COMMIT_MESSAGE" value="start of week1 lab report" />
+    <MESSAGE value="start of week1 lab report part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="start of week1 lab report part 2" />
   </component>
 </project>
