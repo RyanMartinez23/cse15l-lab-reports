@@ -71,6 +71,6 @@ Now back on the client you run code to authorize the rsa id
 
 scp /Users/joe/.ssh/id_rsa.pub cs15lfa22@ieng6.ucsd.edu:~/.ssh/authorized_keys 
 
-Now you are able to log in without a password!! 
+Now you are able to log in without a password!!!
 
 ![img_5.png](img_5.png)
