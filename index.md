@@ -13,7 +13,6 @@ to the World!
 
 click the link to learn more about each project:
 
-* WEEK 0 LAB 
-  
-* * [Week0](https://ryanmartinez1.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
+* WEEK 0 LAB: [Week0](https://ryanmartinez1.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
 
+* WEEK 1 LAB: [Week1](https://ryanmartinez1.github.io/cse15l-lab-reports/lab-report-1-week-1.html)
