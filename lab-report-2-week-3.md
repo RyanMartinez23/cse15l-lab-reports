@@ -1,17 +1,57 @@
 # Week 3 Lab Report
-## Part 1
+# Part 1
 
-Show the code for your Simplest Search Engine from week 2 (use a code block in Markdown). Then, show three screenshots of using it including at least one add and one query, showing the URL in the browser and the response on the page.
+Below is my Simplest Search Engine from week 2 
 
-For each screenshot, describe:
+    ArrayList<String> searches= new ArrayList<String>();
+    public String handleRequest(URI url) {
+        *
+        *
+        *
+    else {
+            System.out.println("Path: " + url.getPath());
+            if (url.getPath().contains("/add")) {
+                String[] parameters = url.getQuery().split("=");
+                if (parameters[0].equals("count")) {
+                    num += Integer.parseInt(parameters[1]);
+                    return String.format("Number increased by %s! It's now %d", parameters[1], num);
+                }
+                if(parameters[0].equals("s")){
+                    searches.add(parameters[1]);
+                    return String.format("%s string added", parameters[1],searches);
 
-Which methods in your code are called
-What the values of the relevant arguments to those methods are, and the values of any relevant fields of the class
-If those values change, how they change by the time the request is done processing
+                }
+
+                }
+            if (url.getPath().contains("/search")) {
+                String[] parameters = url.getQuery().split("=");
+                if(parameters[0].equals("s")){
+                    return String.format("list: "+ searches, parameters[1],searches);
+            }
+        }
 
 
 
-## Part 2
+ 
+
+### Below is the start up of my code and as you can see it runs. I chose the port 2323 but you can choose any number between 1024 to 49151
+\\
+
+![Image](./Screenshots/lab2/startup.jpg)
+
+\
+![Image](./Screenshots/lab2/snip1.jpg)
+![Image](./Screenshots/lab2/snip2.jpg)
+
+
+### Using the command /add and integrating the parameter s your able to add a string to the array created called searches.
+![Image](./Screenshots/lab2/snip3.jpg)
+
+
+### Using the command /search your able to search for anything in the array with the following character in it. 
+
+
+# Part 2
 
 For the second part of lab, my group and I worked on running tests for the ArrayExamples file. Using the base code given we ran the JUnit test and both passed
 ![Image](./Screenshots/lab2/setup.png)
@@ -29,6 +69,4 @@ So, once the bug was found in both codes I was able to find a solution with my g
 
 ![Image](./Screenshots/lab2/fixed%20error.PNG)
 
-Before 
-
-Then, explain the connection between the symptom and the bug. Why does the bug cause that particular symptom for that particular input?
+The bug causes that particular symthom because the array was changing the input before it had a chance to reverse the input. Creating a temp array allows the arrays to make changes to the original array without tampering with the temp array. 
