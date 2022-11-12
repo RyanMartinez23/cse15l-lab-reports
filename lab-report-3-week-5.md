@@ -2,7 +2,9 @@
 **Introduction:** This week I decided to research some commands for grep. According to my sources Grep is a Unix utility that searches through either information piped to it or files in the current directory(wikibooks.org). For example you can use grep to search for a specific word in a file. 
 <br> 
 > **grep [options] pattern [files]** 
-#### Above is the basic sytax for using grep their are many command line options with grep. For this lab I will be explaining three options each with 3 example on how to use these grep options.
+
+
+Above is the basic sytax for using grep their are many command line options with grep. For this lab I will be explaining three options each with 3 example on how to use these grep options.
 
 The first grep option is -i, it ignores case for matching. 
 >**$ grep -i "text" demo_file**
