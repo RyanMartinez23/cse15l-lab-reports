@@ -18,4 +18,4 @@ click the link to learn more about each project:
 * **LAB 1** | Setting an SSH Key & 
 Optimizing Remote Running: [Week1](https://ryanmartinez1.github.io/cse15l-lab-reports/lab-report-1-week-1.html)
 * **LAB 2** | Simplest Search Engine: [Week3](https://ryanmartinez1.github.io/cse15l-lab-reports/lab-report-2-week-3.html)
-* **LAB 3** | Researching Commands: [Week5](http://ryanmartinez1.github.io/cse15l-lab-reports/lab-reports-3-week-5.html)
+* **LAB 3** | Researching Commands: [Week5](http://ryanmartinez1.github.io/cse15l-lab-reports/lab-report-3-week-5.html)
