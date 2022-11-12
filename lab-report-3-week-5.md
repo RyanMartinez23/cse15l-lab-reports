@@ -3,10 +3,12 @@
 <br> 
 > **grep [options] pattern [files]** 
 
-
+<br>
 Above is the basic sytax for using grep their are many command line options with grep. For this lab I will be explaining three options each with 3 example on how to use these grep options.
 
-The first grep option is -i, it ignores case for matching. 
+<br>
+The first grep option is -i it ignores case for matching. 
+
 >**$ grep -i "text" demo_file**
 
 This option enables top search for a string case insentively in a file. The follwing demo_file will be used to show examples:
